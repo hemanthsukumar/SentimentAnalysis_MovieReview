@@ -4,9 +4,9 @@
 This project, developed as part of the **CSE-6363-004** course, focuses on performing sentiment analysis on movie reviews. The goal is to classify movie reviews as positive or negative using machine learning techniques. The dataset used is the **IMDb movie reviews dataset**, and the project implements data preprocessing, model training, and evaluation using two primary models: Convolutional Neural Networks (CNN) and Bidirectional Encoder Representations from Transformers (BERT).
 
 ### Team Members
-- **Varun Perumandla** -  
-- **Hemanth Sukumar Vangala** - 
-- **Sathwik Reddy Avula** -
+- **Varun Perumandla** 
+- **Hemanth Sukumar Vangala** 
+- **Sathwik Reddy Avula** 
 
 ---
 
